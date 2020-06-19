@@ -13,6 +13,7 @@ npm-debug.log
 resources/signing
 jsconfig.json
 .vscode/
+.idea/
 typings/
 
 
